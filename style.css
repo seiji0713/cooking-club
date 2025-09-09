@@ -21,14 +21,12 @@ h1 {
   font-size: 70px; /* フォントの大きさ */
   font-family: lobster; /* フォントの種類 */
   text-align: center; /* 文字・画像を中央にそろえる */
-  margin-top: -100px;
-  background-image: url(img/opening.png); /* 背景画像 */
-  height: auto; /* 高さ */
-  padding-top: 0px; /* 上がわの余白 */
-  background-size: cover;
+  background-image: url(); /* 背景画像 */
   height: 700px; /* 高さ */
+  padding-top: 0px; /* 上がわの余白 */
   background-repeat: no-repeat; /* 背景のくり返しをやめる */
   background-position: top center; /* 背景の位置 */
+  margin: 0px;
 }
 
 /* ===== ヘッダーのスタイル ===== */
